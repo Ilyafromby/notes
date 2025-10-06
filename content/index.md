@@ -1,6 +1,12 @@
 ---
 title: Welcome to Quartz
 ---
+Завел этот блокнот для того, чтобы хранить свои записные книжки в общем доступе. Здесь будет информация из сфер, которые интересны мне:
+- бизнес (маркетинг, продажи, управление)
+- финансы, личные и компании
+- нейросети для повседневного использования
+- бег: как любителю пробежать марафон без тренера
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Блокнот работает на **Quartz**
+Хостинг **github.com**
+The very best CMS for mardown **Obsidian**
