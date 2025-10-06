@@ -8,5 +8,7 @@ title: Welcome to Quartz
 - бег: как любителю пробежать марафон без тренера
 
 Блокнот работает на **Quartz**
+
 Хостинг **github.com**
-The very best CMS for mardown **Obsidian**
+
+The very best CMS for markdown **Obsidian**
