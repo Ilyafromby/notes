@@ -1,3 +1,7 @@
+---
+title: Obsidian Quartz static site
+---
+
 Руководство по установке здесь:
 1. https://quartz.jzhao.xyz/
 2. https://www.xda-developers.com/turned-obsidian-vault-into-website/
