@@ -13,7 +13,7 @@ title: Obsidian Quartz static site
 
 #### Initialize
 
-```
+``` sh
 git clone https://github.com/jackyzha0/quartz.git
 cd quartz
 npm i
@@ -36,7 +36,7 @@ npx quartz build --serve
 
 Create a new repository on GitHub.com. Do **not** initialize the new repository with `README`, license, or `gitignore` files.
 
-```
+``` sh
 # list all the repositories that are tracked
 git remote -v
  
